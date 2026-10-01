@@ -1,0 +1,49 @@
+/* 2. Style the body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* 3. Style the header */
+header {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+/* 4. Style the nav */
+nav {
+    background-color: darkblue;
+    padding: 10px;
+}
+
+/* 5. Style the main */
+main {
+    background-color: lightgray;
+    font-size: 18px;
+    padding: 30px;
+    min-height: 400px;
+}
+
+/* 6. Style the footer */
+footer {
+    background-color: lightblue;
+    padding: 15px;
+}
+
+/* 7. Style the li */
+li {
+    display: inline-block;
+    width: 100px;
+}
+
+/* 8. Style the h1 */
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: darkblue;
+}
+
+/* 9. Style the p */
+p {
+    line-height: 1.8;
+}
